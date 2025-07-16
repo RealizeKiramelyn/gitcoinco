@@ -16,7 +16,7 @@ Cryptocurrency allows end-users to send tips and issue funding for Github Issues
 
 * bureacracy
 * trusted intermediaries
-* international payment fees
+* international payment fees.
 * credit card fees
 * plus it allows funding in ERC20 tokens!
 
